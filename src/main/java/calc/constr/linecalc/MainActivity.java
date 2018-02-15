@@ -28,7 +28,7 @@ public class MainActivity extends AppCompatActivity {
         setSupportActionBar(myToolbar);
 
 
-        MobileAds.initialize(this, "ca-app-pub-5569966794762512~4481395050");
+        MobileAds.initialize(this, "*Admob id*");
 
         mAdView = (AdView) findViewById(R.id.menuAdView);
         AdRequest adRequest = new AdRequest.Builder().build();
