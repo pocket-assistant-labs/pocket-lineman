@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Pocket Lineman</string>
+    <string name="conversions">Conversions</string>
+    <string name="ohms_law">Ohms Law</string>
+    <string name="pole_hole">Pole Hole</string>
+    <string name="amps">Amps</string>
+    <string name="clear">CLEAR</string>
+    <string name="calculate">Calculate</string>
+    <string name="home">Home</string>
+    <string name="ohms">Ohms</string>
+    <string name="volts">Volts</string>
+    <string name="info">Info</string>
+    <string name="feedback">Feedback</string>
+    <string-array name="conversion_array">
+        <item>Meters to Feet</item>
+        <item>Feet to Meters</item>
+        <item>Inches to Millimeters</item>
+        <item>Millimeters to Inches</item>
+    </string-array>
+    <string-array name="ohms_array">
+        <item>Direct Current / purely resistive AC</item>
+        <!--<item>Alternating Current</item>-->
+    </string-array>
+</resources>
