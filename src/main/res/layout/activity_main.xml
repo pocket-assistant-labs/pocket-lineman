@@ -101,5 +101,5 @@
         app:layout_constraintLeft_toLeftOf="parent"
         app:layout_constraintRight_toRightOf="parent"
         ads:adSize="SMART_BANNER"
-        ads:adUnitId="ca-app-pub-5569966794762512/4261903201"/>
+        ads:adUnitId="*AD UNIT ID"/>
 </android.support.constraint.ConstraintLayout>
